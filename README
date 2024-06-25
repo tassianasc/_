@@ -1,6 +1,8 @@
-caminho para rodar o servidor REDIS:
+Criar uma venv
+
+Rodar o servidor REDIS:
 Prompt de comando
-cd Downloads/ cd Redis
+caminhoDoRedis
  redis-server
 
 comando para rodar o servidor : 
